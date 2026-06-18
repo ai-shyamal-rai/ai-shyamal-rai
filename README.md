@@ -1,7 +1,7 @@
 # Hi there 👋 I am Shyamal Rai
 
 ### About Me
-I am an **AI Product Engineer** and **GenAI & ML Engineer** passionate about building intelligent applications and automated workflow solutions. I specialize in leveraging Large Language Models (LLMs), Python, and FastAPI to create dynamic, agentic AI systems, while bringing strong foundational product thinking to the table. 
+I am an **GenAI & ML Engineer** passionate about building intelligent applications and automated workflow solutions. I specialize in leveraging Large Language Models (LLMs), Python, and FastAPI to create dynamic, agentic AI systems, while bringing strong foundational product thinking to the table. 
 
 With a background in Computer Science and hands-on experience in Machine Learning, Deep Learning, and workflow automation, I bridge the gap between technical AI implementation and seamless user experiences.
 
@@ -37,7 +37,6 @@ With a background in Computer Science and hands-on experience in Machine Learnin
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-shyamal-rai&theme=dark&hide_border=true" alt="GitHub Streak" width="97%"/>
 </p>
-
 ---
 
 ### 📫 How to Reach Me
