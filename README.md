@@ -35,7 +35,7 @@ I am a **GenAI Product & ML Engineer** passionate about building intelligent app
   <tr>
     <td width="50%" valign="top">
       <h3>GitHub Streak Stats</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-shyamal-rai&theme=dark&hide_border=true&cache_version=3" alt="GitHub Streak" width="100%"/>
+     <img src="https://github-readme-streak-stats.vercel.app/?user=ai-shyamal-rai&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
     <td width="50%" valign="top">
       <h3>Languages & Frameworks</h3>
