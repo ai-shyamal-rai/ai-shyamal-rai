@@ -23,11 +23,11 @@ With a background in Computer Science and hands-on experience in Machine Learnin
 
 | Project | Description |
 | :--- | :--- |
-| **📈 DataScience-ML-Projects** | A collection of Data Science and Machine Learning projects covering predictive modeling, classification, regression, and deep learning. |
-| **🤖 NLP-WEB-APP** | A Flask web application for sentiment analysis, named entity recognition (NER), and emotion detection, with user authentication and profiles. |
-| **🖥️ NLP-DEKSTOP-APP** | A desktop NLP application (Tkinter/PyQt) for sentiment analysis, NER, and emotion detection. |
-| **📊 STARTUP-DASHBOARD** | An interactive Streamlit dashboard analyzing Indian startup funding data — overall trends, company profiles, and investor insights. |
-| **🏏 IPL-API-SERVICE** | A Flask REST API serving IPL cricket data — teams, head-to-head records, and player batting/bowling statistics. |
+| **📈 [DataScience-ML-Projects](https://github.com/ai-shyamal-rai/DataScience-ML-Projects)** | A collection of Data Science and Machine Learning projects covering predictive modeling, classification, regression, and deep learning. |
+| **🤖 [nlp-web-app](https://github.com/ai-shyamal-rai/nlp-web-app)** | A Flask web application for sentiment analysis, named entity recognition (NER), and emotion detection, with user authentication and profiles. |
+| **🖥️ [nlp-dekstop-app](https://github.com/ai-shyamal-rai/nlp-dekstop-app)** | A desktop NLP application (Tkinter/PyQt) for sentiment analysis, NER, and emotion detection. |
+| **📊 [STARTUP-DASHBOARD](https://github.com/ai-shyamal-rai/STARTUP-DASHBOARD)** | An interactive Streamlit dashboard analyzing Indian startup funding data — overall trends, company profiles, and investor insights. |
+| **🏏 [ipl-api-service](https://github.com/ai-shyamal-rai/ipl-api-service)** | A Flask REST API serving IPL cricket data — teams, head-to-head records, and player batting/bowling statistics. |
 
 ---
 ### 📊 My GitHub Stats
