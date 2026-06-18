@@ -32,20 +32,9 @@ I am a **GenAI Product & ML Engineer** passionate about building intelligent app
 
 ## 📊 My GitHub Analytics
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" valign="top" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-shyamal-rai&layout=donut&theme=dark&hide_border=true&count_private=true" alt="Top Languages" width="100%"/>
-    </td>
-    <td width="50%" valign="top" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ai-shyamal-rai&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Shyamal's GitHub Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center" style="margin-top: 16px;">
-  <img src="https://streak-stats.demolab.com/?user=ai-shyamal-rai&theme=dark&hide_border=true" alt="GitHub Streak" width="80%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ai-shyamal-rai&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Shyamal's GitHub Stats" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=ai-shyamal-rai&theme=default&hide_border=true" alt="GitHub Streak" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-shyamal-rai&theme=default&hide_border=true&count_private=true&layout=compact" alt="Most Used Languages" width="60%"/>
 
 ---
 
