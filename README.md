@@ -9,11 +9,11 @@ I am a **AI Product Engineer | GenAI & ML** passionate about building intelligen
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI & GenAI** | LLMs (GPT, Claude), Prompt Engineering, Agentic AI, n8n |
-| **Programming & Backend** | Python, FastAPI, Streamlit, Flask, REST APIs, Git/GitHub |
-| **Data & Machine Learning** | SQL (PostgreSQL), NumPy, Pandas, Scikit-Learn, SVD, Feature Engineering |
-| **Data Visualization** | Matplotlib, Plotly, Dash, Seaborn |
-| **Product Management** | PRD Writing, User Journey Mapping, Product Metrics, MVP Thinking, Figma, Jira |
+| **LLMs & Frameworks** | Agentic AI, Deep Agents, LangChain, LangGraph, MCP, RAG, Guardrails, LLM Evaluations, Gateways |
+| **Programming & Automation** | Python, Tkinter, Streamlit, Flask, REST API, Git & Github |
+| **Data Visualization** | Matplotlib, Plotly, Dash, Seaborn  |
+| **Databases & Analytics** | MySQL, PostgreSQL, ChromaDB, FAISS, Pandas, NumPy, EDA, Data & Statistical Analysis |
+| **Product Management** | PRD Writing, User Journey Mapping, Product Metrics, MVP Thinking, A/B Testing, Figma |
 
 ---
 
